@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="7">
+        <Placemark id="9">
+            <name>보듬8로</name>
+            <description>도로명: 보듬8로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 40+20+3+77
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="8">
+                <coordinates>127.262158,36.518168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>보듬8로</name>
+            <description>도로명: 보듬8로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 40+20+3+77
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="10">
+                <coordinates>127.261958,36.517963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>보듬8로</name>
+            <description>도로명: 보듬8로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 40+3+97
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="12">
+                <coordinates>127.262229,36.517976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>보듬8로</name>
+            <description>도로명: 보듬8로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 40+3+97
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="14">
+                <coordinates>127.261915,36.518137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>보듬6로</name>
+            <description>도로명: 보듬6로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 30+20+3+47
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="16">
+                <coordinates>127.262639,36.516102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>보듬6로</name>
+            <description>도로명: 보듬6로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 30+20+3+47
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="18">
+                <coordinates>127.262532,36.516005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>보듬6로</name>
+            <description>도로명: 보듬6로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 25+3+72
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="20">
+                <coordinates>127.262655,36.516001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>보듬6로</name>
+            <description>도로명: 보듬6로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 25+3+72
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="22">
+                <coordinates>127.262505,36.516113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 45+3+112
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="24">
+                <coordinates>127.249509,36.499225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 45+3+112
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="26">
+                <coordinates>127.249028,36.499255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 45+3+112
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="28">
+                <coordinates>127.249013,36.499139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 45+3+112
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="30">
+                <coordinates>127.249485,36.4991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 35+3+122
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="32">
+                <coordinates>127.249253,36.499005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 35+3+122
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="34">
+                <coordinates>127.249345,36.499422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 35+3+122
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="36">
+                <coordinates>127.249194,36.49942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>가름로</name>
+            <description>도로명: 가름로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 35+3+122
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="38">
+                <coordinates>127.249117,36.499008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>달빛로</name>
+            <description>도로명: 달빛로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 32+3+85
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="40">
+                <coordinates>127.249731,36.509637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>달빛로</name>
+            <description>도로명: 달빛로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 73+3+43
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="42">
+                <coordinates>127.249969,36.509424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>달빛로</name>
+            <description>도로명: 달빛로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 73+3+43
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="44">
+                <coordinates>127.249982,36.509622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>달빛로</name>
+            <description>도로명: 달빛로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색/녹색화살표+황색+적색
+신호등 운영시간: 73+15+3+29
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="46">
+                <coordinates>127.249731,36.509637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>달빛1로</name>
+            <description>도로명: 달빛1로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 72+3+45
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="48">
+                <coordinates>127.245778,36.514919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>달빛1로</name>
+            <description>도로명: 달빛1로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 24+3+93
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="50">
+                <coordinates>127.245774,36.514874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>달빛1로</name>
+            <description>도로명: 달빛1로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 72+24+3+21
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="52">
+                <coordinates>127.245616,36.514965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>달빛1로</name>
+            <description>도로명: 달빛1로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 72+24+3+21
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="54">
+                <coordinates>127.24568,36.514687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>세종로</name>
+            <description>도로명: 세종로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 29+3+128
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="56">
+                <coordinates>127.24154,36.517363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>세종로</name>
+            <description>도로명: 세종로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 29+3+128
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="58">
+                <coordinates>127.241966,36.517483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>세종로</name>
+            <description>도로명: 세종로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+녹색+황색+적색
+신호등 운영시간: 29+102+3+26
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="60">
+                <coordinates>127.241918,36.517355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>세종로</name>
+            <description>도로명: 세종로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 102+3+55
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="62">
+                <coordinates>127.241582,36.517504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>마음로</name>
+            <description>도로명: 마음로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 95+3+22
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="64">
+                <coordinates>127.235268,36.504294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>마음로</name>
+            <description>도로명: 마음로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 95+3+22
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="66">
+                <coordinates>127.235147,36.504173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>나리로</name>
+            <description>도로명: 나리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 103+3+54
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="68">
+                <coordinates>127.26178,36.478617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>나리로</name>
+            <description>도로명: 나리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 103+3+54
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="70">
+                <coordinates>127.261494,36.478439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>나리로</name>
+            <description>도로명: 나리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 25+103+3+29
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="72">
+                <coordinates>127.2617,36.478202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>나리로</name>
+            <description>도로명: 나리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 25+103+3+29
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="74">
+                <coordinates>127.261997,36.478389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>나리로</name>
+            <description>도로명: 나리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 32+3+125
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="76">
+                <coordinates>127.261997,36.478389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>나리로</name>
+            <description>도로명: 나리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 32+3+125
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="78">
+                <coordinates>127.261997,36.478389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>누리로</name>
+            <description>도로명: 누리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 20+3+97
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="80">
+                <coordinates>127.252495,36.475454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>누리로</name>
+            <description>도로명: 누리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 20+3+97
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="82">
+                <coordinates>127.252693,36.47552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>누리로</name>
+            <description>도로명: 누리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 40+3+77
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="84">
+                <coordinates>127.25256,36.475577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>누리로</name>
+            <description>도로명: 누리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 40+3+77
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="86">
+                <coordinates>127.252617,36.47541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>누리로</name>
+            <description>도로명: 누리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 92+3+25
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="88">
+                <coordinates>127.25257,36.480068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>누리로</name>
+            <description>도로명: 누리로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 92+3+25
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="90">
+                <coordinates>127.252463,36.480176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 36+20+3+61
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="92">
+                <coordinates>127.250608,36.480752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 36+20+3+61
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="94">
+                <coordinates>127.250453,36.480706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 36+20+3+61
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="96">
+                <coordinates>127.250461,36.480594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 36+20+3+61
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="98">
+                <coordinates>127.250642,36.48065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 32+3+85
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="100">
+                <coordinates>127.25062,36.480616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 32+3+85
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="102">
+                <coordinates>127.250579,36.480773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 32+3+85
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="104">
+                <coordinates>127.250477,36.480749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>어울로</name>
+            <description>도로명: 어울로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색/녹색화살표+황색+적색
+신호등 운영시간: 32+3+85
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="106">
+                <coordinates>127.250501,36.480583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>장기로</name>
+            <description>도로명: 장기로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+녹색+황색+적색
+신호등 운영시간: 33+102+3+22
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="108">
+                <coordinates>127.225965,36.498952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>장기로</name>
+            <description>도로명: 장기로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+녹색+황색+적색
+신호등 운영시간: 33+102+3+22
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="110">
+                <coordinates>127.225798,36.498939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>장기로</name>
+            <description>도로명: 장기로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 102+3+124
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="112">
+                <coordinates>127.225742,36.498798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>장기로</name>
+            <description>도로명: 장기로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 102+3+124
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="114">
+                <coordinates>127.225996,36.498807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>장기로</name>
+            <description>도로명: 장기로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 25+3+132
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="116">
+                <coordinates>127.225996,36.498807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>장기로</name>
+            <description>도로명: 장기로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 25+3+132
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="118">
+                <coordinates>127.225965,36.498952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>오봉로</name>
+            <description>도로명: 오봉로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+녹색+황색+적색
+신호등 운영시간: 13+64+3+20
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="120">
+                <coordinates>127.278719,36.604436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>오봉로</name>
+            <description>도로명: 오봉로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+녹색+황색+적색
+신호등 운영시간: 13+64+3+20
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="122">
+                <coordinates>127.278632,36.604346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>오봉로</name>
+            <description>도로명: 오봉로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 64+3+33
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="124">
+                <coordinates>127.278735,36.604279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>오봉로</name>
+            <description>도로명: 오봉로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 64+3+33
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="126">
+                <coordinates>127.278818,36.604359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>오봉로</name>
+            <description>도로명: 오봉로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 23+3+74
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="128">
+                <coordinates>127.278809,36.604322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>오봉로</name>
+            <description>도로명: 오봉로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 23+3+74
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="130">
+                <coordinates>127.278632,36.604346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 20+3+127
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="132">
+                <coordinates>127.210081,36.699499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 30+3+117
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="134">
+                <coordinates>127.210085,36.699338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 30+3+117
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="136">
+                <coordinates>127.21031,36.699368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 80+20+3+47
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="138">
+                <coordinates>127.21031,36.699368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 80+20+3+47
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="140">
+                <coordinates>127.210286,36.699844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 80+20+3+47
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="142">
+                <coordinates>127.210081,36.699499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 80+20+3+47
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="144">
+                <coordinates>127.210085,36.699338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 20+3+127
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="146">
+                <coordinates>127.20529,36.689361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 20+3+127
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="148">
+                <coordinates>127.205127,36.689357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 33+3+114
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="150">
+                <coordinates>127.205147,36.689258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 33+3+114
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="152">
+                <coordinates>127.205301,36.689255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 77+20+3+50
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="154">
+                <coordinates>127.205301,36.689255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 77+20+3+50
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="156">
+                <coordinates>127.20529,36.689361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 77+20+3+50
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="158">
+                <coordinates>127.205127,36.689357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>왕의물로</name>
+            <description>도로명: 왕의물로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 77+20+3+50
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="160">
+                <coordinates>127.205147,36.689258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 20+3+97
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="162">
+                <coordinates>127.325334,36.548143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 20+3+97
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="164">
+                <coordinates>127.325104,36.548264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 35+3+82
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="166">
+                <coordinates>127.324953,36.548196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색화살표+황색+적색
+신호등 운영시간: 35+3+82
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="168">
+                <coordinates>127.325194,36.54815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 45+20+3+52
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="170">
+                <coordinates>127.325123,36.548121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 45+20+3+52
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="172">
+                <coordinates>127.325278,36.548202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 45+20+3+52
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="174">
+                <coordinates>127.325155,36.548264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>내판로</name>
+            <description>도로명: 내판로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+녹색화살표+황색+적색
+신호등 운영시간: 45+20+3+52
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="176">
+                <coordinates>127.324977,36.548175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>다정남로</name>
+            <description>도로명: 다정남로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 97+3+20
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="178">
+                <coordinates>127.249115,36.49512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>다정남로</name>
+            <description>도로명: 다정남로
+설치방식: 3
+신호등 종류: 1
+신호 순서: 녹색+황색+적색
+신호등 운영시간: 97+3+20
+운영시간 결정 방식: 1
+관리기관: 세종시청
+연락처: 044-300-5536
+점멸기 시작시간: 0:00
+점멸기 종료시간: 0:00</description>
+            <Point id="180">
+                <coordinates>127.247851,36.4952,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
